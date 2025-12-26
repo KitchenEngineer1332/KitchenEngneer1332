@@ -1,4 +1,4 @@
-# 🍳 KitchenEngineer1332
+# KitchenEngineer1332
 
 **Kitchen Engineer** — blending engineering logic with creative expression.
 
