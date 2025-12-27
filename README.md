@@ -71,7 +71,7 @@ I value:
 
 ## 📬 Contact & Links
 
-- 🌐 Website: https://www.kitchenengineer1332.com  
+- 🌐 Website: https://kitchenengineer1332.github.io/  
 - 🐙 GitHub: https://github.com/KitchenEngineer1332  
 
 ---
